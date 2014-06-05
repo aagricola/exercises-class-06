@@ -139,6 +139,8 @@ textarea {
 	float: right;
 	padding-top: 36px; 
 	margin-right: 0;
+	font-family: 'Amatic SC', cursive;
+	font-size: 24px;
 	
 }
 
@@ -153,20 +155,20 @@ textarea {
 	display:block;
 	width: 32px;
 	height: 32px;
-	background-position: left top;
+	background-image: url(../img/sprites.png);
 	background-repeat: no-repeat;
 }
 
 .social-twitter {
-	background-image: url(../img/twitter.png);
+background-position: -96px 0;
 }
 
 .social-instagram {
-	background-image: url(../img/instagram.png);
+	background-position: -48px 0;
 }
 
 .social-facebook {
-	background-image: url(../img/facebook.png);
+
 }
 
 
